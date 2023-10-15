@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frankyglider
 - 👀 I’m interested in learning new skills and paragliding
-- 🌱 I’m currently learning AWS cloud engineering
+- 🌱 I’m currently learning Python and AWS cloud engineering
 - 💞️ I’m looking to collaborate on skilled people
 - 📫 How to reach me: hofmann-f@gmx.net
 
